@@ -12,3 +12,5 @@ Implementation is to see and advise the players which part of their game they ha
 - M1-exam-assignment.pdf : a rendered PDF version of our notebook
 
 - atp_matches_2018.csv : the data used in your analysis
+
+- Stakeholder-report.pdf : Report for non-technical readers
